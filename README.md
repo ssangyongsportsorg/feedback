@@ -1,2 +1,2 @@
 # feedback
-提交問題https://github.com/ssangyongsportsorg/feedback/issues
+提交問題請改用社區
